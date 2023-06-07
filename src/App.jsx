@@ -10,7 +10,7 @@ function App() {
   
   return (
     <>
-      <div className="bg-[#587548] w-screen min-h-screen">
+      <div className="bg-[#587548]  w-screen min-h-screen max-w-[100%] overflow-hidden">
         <Header />
         <Banner />
         <ProjectsSection />

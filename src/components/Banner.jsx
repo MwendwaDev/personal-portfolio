@@ -8,7 +8,7 @@ import vectorimage from "../assets/vectorimage.jpg"
 
 const Banner = () => {
   return (
-    <div id="home" className="lg:mx-36 mx-6">
+    <div id="home" className="lg:mx-36 mx-6 overflow-x-hidden">
         <div className="md:flex items-center justify-between py-16">
             <div>
                 <Fade bottom>
