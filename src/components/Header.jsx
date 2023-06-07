@@ -4,7 +4,7 @@ import { SiHashnode } from 'react-icons/si';
 const Header = () => {
   return (
 
-<nav className="lg:mx-36 border-gray-200 px-2 sm:px-4 rounded dark:bg-[#1b1b1b] py-5">
+<nav className="lg:mx-36 border-gray-200 px-2 sm:px-4 rounded dark:bg-[#ced10e] py-5">
   <div className="container flex flex-wrap justify-around items-center mx-auto">
   <div className="flex md:order-2 space-x-4 text-gray-600">
     <a href="https://www.linkedin.com/in/mwendwa-bundi-emma-941a8b253/">

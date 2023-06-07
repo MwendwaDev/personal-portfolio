@@ -18,9 +18,9 @@ const Banner = () => {
                 <Fade bottom>
 
                 <p className="text-[#9C9C9C] md:w-[28rem] mt-4 text-[1.2rem]">
-                I am front-end developer and technical writer. I love developing impeccable websites and sharing my programming
-                knowledge through writing. When I'm not coding I write articles and tutorials. You can read some of my works on 
-                Hashnode, Educative.io, and Freecode Camp among others.
+                I am front-end developer and technical writer. Technologies I use include;
+                JavaScript, React, CSS, HTML. I also use APIs, CMS and Baas to build impeccable websites.
+                As a technical writer I write articles & tutorials. I have written for Medusajs, Freecode Camp, Traceable AI, Educative.io and Hashnode among others.
                 </p>
 
                 <Button 
